@@ -1,0 +1,7 @@
+QGroupBox[qssGroup="NoBorder"] {
+	border: 0px;
+}
+
+QLineEdit:read-only {
+	background-color: transparent;
+}

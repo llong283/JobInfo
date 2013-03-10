@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/tray.png</file>
+        <file>other/qt_zh_CN.qm</file>
+        <file>qss/JobInfo.qss</file>
+        <file>pic/Background.png</file>
+    </qresource>
+</RCC>
